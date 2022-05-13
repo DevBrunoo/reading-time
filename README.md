@@ -22,5 +22,4 @@
     <a href="https://www.linkedin.com/in/how15bybruno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
   </div>
-<img src="file:///Users/brunocosta/Pictures/Photos%20Library.photoslibrary/originals/0/021FB78F-D059-43DC-9F92-1CF5DF1F00AE.jpeg" alt="print">
 
