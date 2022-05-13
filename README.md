@@ -7,4 +7,4 @@
 <br>
 <br>
 <h2><q>To see the work, download the zip repository, and then move the html document to your navigation bar</q></h2>
-<img src="repositorio.git" alt="">
+<img src="https://raw.githubusercontent.com/DevBrunoo/nav_rose/main/movierepository.gif" alt="">
